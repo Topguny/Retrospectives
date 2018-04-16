@@ -1,5 +1,7 @@
 Lukas Heading
+
 4/16/18
+
 LPHZQD
 
 # Retrospective: CheckerBoard
