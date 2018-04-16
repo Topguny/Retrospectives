@@ -7,7 +7,7 @@ LPHZQD
 # Retrospective: CheckerBoard
 1.
 2. I would Say I pretty well understood the programming concepts and foundational knowledge to complete this assignment. It was after all our first assignment I believe for the semester so it was not too complicated. Also I feel like we may have done a checkerboard in 3330, also having Dale do another example, albeit he did not use an anchorpane in his in class example I think.
-3.
+3. I feel like I completed all of the requirements set out by the challenge, at least from looking comparing mine to the checkerboard.pdf I did not miss anything. I believe I also met the requirements correctly.
 4.
 5.
 
